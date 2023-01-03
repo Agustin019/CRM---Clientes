@@ -1,0 +1,55 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Agustin",
+      "telefono": 138198313,
+      "email": "correo@correo.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Gaston Tonga",
+      "empresa": "Piscium SRL",
+      "email": "correo@correo.com",
+      "telefono": "123456789",
+      "notas": "EL cliente quiere una pagina odnde pueda listar sus productos mediante un administraodr",
+      "id": 9
+    },
+    {
+      "nombre": "Agustin Narciande",
+      "empresa": "Codigo con Juan",
+      "email": "correo@correo.com",
+      "telefono": "123456789",
+      "notas": "fffgg",
+      "id": 10
+    }
+  ]
+}
